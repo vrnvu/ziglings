@@ -57,7 +57,7 @@ pub fn main() void {
 
     // FIX ME!
     // Please pass our Character "glorp" to printCharacter():
-    printCharacter( ??? );
+    printCharacter(&glorp);
 }
 
 
